@@ -2,9 +2,10 @@
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
 import './App.css'
-import React from 'react'; 
+
 
 import { useState } from "react"
+import User from './User';
 
 function App() {
   const [color, setColor] = useState("olive");
@@ -12,6 +13,7 @@ function App() {
 
   return (
     <>
+    <User/>
       <div className="w-full h-screen duration-800"
       style= {{ backgroundColor: color }}>
         <div className="fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2">
