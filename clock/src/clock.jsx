@@ -26,7 +26,7 @@ function Clock(){
         <h1
         style = {{color:"orange", padding: "30px", width: "200px", backgroundColor: "blueviolet"}}
         
-        >Clock {set}</h1>
+        >Digital Clock {set}</h1>
         </div>
     )
 }
