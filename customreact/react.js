@@ -17,5 +17,4 @@ const reactelement= {
     },
     children: 'visit google.com'
 }
-,,
 customerender(reactelement, main)
