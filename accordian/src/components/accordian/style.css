@@ -4,7 +4,16 @@
     width: 95%;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+    gap: 20px;
     
+}
+.wrapper button{
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+    border-radius: 10px;
 }
 .accordian{
    
