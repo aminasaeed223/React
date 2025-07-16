@@ -1,0 +1,29 @@
+.tree-view-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #fafafa;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+ul.menu-list-container {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+p {
+  margin: 0;
+  color: #333;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+p:hover {
+  color: #3498db;
+}
