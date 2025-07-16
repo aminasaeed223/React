@@ -4,6 +4,9 @@ import './App.css'
 import Accordian from './components/accordian'
 import RandomColor from './components/random-color'
 import Star from './components/star-rating'
+import Image from './components/image-slider'
+import Loadbutton from './components/load-more'
+
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -12,7 +15,9 @@ function App() {
     <>
       {/* <Accordian /> */}
       {/* <RandomColor /> */}
-      <Star />
+      {/* <Star /> */}
+      {/* <Image url = {'https://picsum.photos/v2/list'} page = {'1'} limit = {'10'}/> */}
+      <Loadbutton />
     </>
   )
 }
