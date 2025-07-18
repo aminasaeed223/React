@@ -26,4 +26,5 @@ p {
 
 p:hover {
   color: #3499db;
+  background-color: grey;
 }
