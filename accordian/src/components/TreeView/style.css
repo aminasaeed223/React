@@ -22,9 +22,11 @@ p {
   color: #333;
   font-weight: 500;
   transition: color 0.2s ease;
+  font-size: 1rem;
 }
 
 p:hover {
   color: #3499db;
   background-color: grey;
+
 }
