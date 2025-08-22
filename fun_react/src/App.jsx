@@ -9,6 +9,7 @@ function App() {
     <>
      
       <h1>Fun Facts about react</h1>
+      <h1>REACT JS</h1>
       <ul>
         <li>hi</li>
         <li>dear</li>
