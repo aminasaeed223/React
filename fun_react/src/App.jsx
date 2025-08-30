@@ -23,8 +23,7 @@ function App() {
         <ol><li></li></ol>
         <form action=""></form>
 
-        <li></li>
-        <ul><li></li></ul>
+        
       </ul>
     </>
   )
